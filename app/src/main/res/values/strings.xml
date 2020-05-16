@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">DaggerProject</string>
+    <string name="profile">Profile</string>
+    <string name="posts">Posts</string>
 </resources>
